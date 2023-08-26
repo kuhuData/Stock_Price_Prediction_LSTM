@@ -14,6 +14,7 @@ Predicting stock prices using LSTM models based on historical data.
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
+- [Author](#author)
 
 ## Introduction
 
@@ -57,6 +58,13 @@ Contributions to this project are welcome! If you want to contribute, follow the
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
+
+## Author
+
+- Your Name
+- GitHub: [@kuhuData](https://github.com/kuhuData)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kuheli-das-data-analyst/)
+
 
 ---
 **Note:** For detailed implementation, explanations, and code examples, refer to the Jupyter Notebook (`Stock-Price-Prediction-LSTM.ipynb`).
