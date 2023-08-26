@@ -59,4 +59,4 @@ Contributions to this project are welcome! If you want to contribute, follow the
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ---
-**Note:** For detailed implementation, explanations, and code examples, refer to the Jupyter Notebook (`Stock_Price_Prediction_LSTM.ipynb`).
+**Note:** For detailed implementation, explanations, and code examples, refer to the Jupyter Notebook (`Stock-Price-Prediction-LSTM.ipynb`).
